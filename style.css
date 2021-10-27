@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+.class
+{
+    color: red;
+    font-style: italic;
+}
+.list
+{
+    color: rgb(189, 17, 5);
+    font-size: 20px;
+}
+.list1{
+    color: rgb(189, 17, 5);
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+.para{
+    color: rgb(189, 17, 5);
+    font-size: 18px;
+}
